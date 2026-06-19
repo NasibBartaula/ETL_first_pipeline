@@ -1,0 +1,5 @@
+{
+    "input_file":"https://jsonplaceholder.typicode.com/comments",
+    "output_file":"data/Data.csv",
+    "log_file":"ETL pipeline 2/file.log"
+}

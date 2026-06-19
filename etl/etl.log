@@ -1,0 +1,5 @@
+2026-06-19 16:14:27,909 - INFO - pipeline started
+2026-06-19 16:14:27,911 - INFO - API request started
+2026-06-19 16:14:28,728 - INFO - Json flatterned successfully
+2026-06-19 16:14:28,734 - INFO - Trasformation done
+2026-06-19 16:14:28,751 - INFO - CSV saved successfully
